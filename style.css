@@ -1,0 +1,16 @@
+body {
+    background: #cccccc
+}
+
+h1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.726);
+}
+
+p {
+    text-align:center;
+}
+
+em strong {
+    color: #ff0a0a;
+} 
